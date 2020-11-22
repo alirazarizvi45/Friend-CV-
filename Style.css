@@ -1,0 +1,34 @@
+/**********************************TAG SELECTORS**********************/
+body{ 
+      background-color: #eaf6f6;
+    }
+
+hr{ 
+     
+    background-color: white;
+    border-style: dotted none none none;
+    border-color:grey;
+    border-radius: 25px; 
+    border-width:2px;
+    width: 10%;
+
+  }
+
+h1{
+	color: #66cfbf;
+}  
+h3{
+	color: #66cfbf;
+}
+h2{
+	color: #66cfbf;
+}
+
+/**********************************CLASS SELECTORS**********************/
+
+.Contact{
+  background: white;
+}
+.Circular{
+  border-radius: 100%;
+}
